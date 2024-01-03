@@ -3,8 +3,8 @@
 [ext_resource type="Texture2D" uid="uid://tb83ngtwf8lr" path="res://knight_idle_anim_f0.png" id="1_7sd8h"]
 [ext_resource type="Script" path="res://Knight.cs" id="2_ehnyh"]
 
-[node name="Knight" type="Sprite2D"]
-position = Vector2(463, 256)
-scale = Vector2(3.82031, 3.875)
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(581, 314)
+scale = Vector2(2.78125, 2.64624)
 texture = ExtResource("1_7sd8h")
 script = ExtResource("2_ehnyh")

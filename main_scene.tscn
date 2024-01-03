@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxokh0v0p1hle"]
+
+[ext_resource type="PackedScene" uid="uid://bmoqpv3lpyv5h" path="res://knight.tscn" id="1_2dpxp"]
+
+[node name="Main Scene" type="Node"]
+
+[node name="Sprite2D" parent="." instance=ExtResource("1_2dpxp")]
+position = Vector2(586, 342)
+scale = Vector2(7.38281, 7.02443)
